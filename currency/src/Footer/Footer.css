@@ -1,0 +1,32 @@
+.footer .footer-bottom {
+  background-color: #202020;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.footer .footer-bottom ul li a {
+  line-height: 30px;
+  color: bisque;
+  position: relative;
+  margin-left: 23px;
+  display: block;
+  text-decoration: none;
+  font-family: 'Roboto Condensed' sans-serif;
+
+}
+.footer-title {
+  color: bisque;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+}
+.footer-title a {
+  color: bisque;
+  font-size: 1.4rem;
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  
+}
+
